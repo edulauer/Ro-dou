@@ -20,6 +20,8 @@ changelog:
       labels:
         - 'documentation'
         - 'docs'   
+  include: 
+    commits: true
 template: |
   ## 📦 Nova Release: ${{ version }}
 
