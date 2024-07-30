@@ -24,7 +24,7 @@ jobs:
         run: |
           {
             echo "## [${{ steps.get_latest_release.outputs.tag }}] - $(date +"%Y-%m-%d")"
-            echo gh release view ${{ steps.get_latest_release.outputs.tag }} -R ${{ github.repository }} --json body --jq '.body'
+            gh release view ${{ steps.get_latest_release.outputs.tag }} -R ${{ github.repository }} --json body --jq '.body'
             echo ""
           } >> new_entry.md      
         env:
