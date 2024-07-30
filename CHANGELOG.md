@@ -1,6 +1,19 @@
 ## Change Log
 
 As principais mudanças realizadas no repositório do [Ro-ou](https://github.com/gestaogovbr/Ro-dou) estão documentadas aqui a partir de 31/08/2023.
+## [1.0.7] - 2024-07-30
+LOREM IPSUM
+
+LOREM IPSUM
+
+LOREM IPSUM
+LOREM IPSUM
+
+LOREM IPSUM
+
+LOREM IPSUM
+**Full Changelog**: https://github.com/edulauer/Ro-dou/compare/1.0.6...1.0.7
+
 ## [1.0.1] - 2024-07-30
 <!-- Release notes generated using configuration in .github/release.yml at main -->
 
