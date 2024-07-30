@@ -30,3 +30,6 @@ Esta alteração permite que os arquivos de configuração das DAGs (`dag_confs/
 ## [1.0.0] - 2024-07-30
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis elementum mi, sed posuere augue. Mauris eget diam eu diam dictum tincidunt sed eget justo. Sed ante justo, luctus accumsan laoreet a, efficitur eget magna. Phasellus luctus neque vitae erat viverra euismod. Aliquam porttitor nisi sodales, vestibulum est nec, volutpat turpis. Aliquam vehicula pulvinar ipsum condimentum ultricies. Praesent faucibus accumsan ultricies. Duis felis justo, faucibus sed aliquet interdum, ornare ut metus. Quisque tortor nisi, tristique in placerat ultrices, dignissim eu nunc. Nulla et nibh congue, fringilla ante vel, viverra nisi. Integer tincidunt erat risus, quis dictum sapien vestibulum sit amet. Mauris massa dui, porttitor vel lectus in, scelerisque tincidunt nisl. Cras faucibus porta purus, pharetra sagittis ex egestas non.
 
+## [1.0.1] - 2024-07-30
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
