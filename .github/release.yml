@@ -3,3 +3,21 @@ changelog:
     - title: 🚀 Novas Funcionalidades
       labels:
         - '*'
+template: |
+  ## 📦 Nova Release: ${{ version }}
+
+  Data de lançamento: ${{ date }}
+
+  ${{ body }}
+
+  ---
+  **Resumo das Mudanças:**
+
+  ${{ changelog }}
+
+  ---
+  **Detalhes da Release:**
+
+  Para mais informações sobre esta release, acesse o [código fonte](${{ repository }}/compare/${{ previousTag }}...${{ tagName }}) e veja todos os commits e mudanças.
+
+  Agradecemos a todos os contribuidores que ajudaram com esta release!
