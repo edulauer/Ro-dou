@@ -1,6 +1,9 @@
 ## Change Log
 
 As principais mudanças realizadas no repositório do [Ro-ou](https://github.com/gestaogovbr/Ro-dou) estão documentadas aqui a partir de 31/08/2023.
+## [1.0.3] - 2024-07-30
+<!-- Release notes generated using configuration in .github/release.yml at 1.0.3 -->
+
 ## [1.0.1] - 2024-07-30
 <!-- Release notes generated using configuration in .github/release.yml at main -->
 
